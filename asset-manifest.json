@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.406a49b1.js",
+    "static/js/787.df5e1d3a.chunk.js": "/static/js/787.df5e1d3a.chunk.js",
+    "static/media/PritomPic.png": "/static/media/PritomPic.d0f014efc82364e6f9b5.png",
+    "index.html": "/index.html",
+    "main.406a49b1.js.map": "/static/js/main.406a49b1.js.map",
+    "787.df5e1d3a.chunk.js.map": "/static/js/787.df5e1d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.406a49b1.js"
+  ]
+}
