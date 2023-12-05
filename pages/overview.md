@@ -2,11 +2,12 @@
 
 ## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉
 
-![Text](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+I am a Computer Science & Engineering (CSE) student form North East University Bangladesh, Sylhet.
+I love programming & problem solving. 
 
 ## Experience
 
