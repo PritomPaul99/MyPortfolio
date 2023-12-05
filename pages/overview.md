@@ -11,7 +11,7 @@ I love programming & problem solving. I have participated in several onsite `Int
 
 ## My Socials
 
-[<img width="32" height="32" src="https://img.icons8.com/fluency/32/facebook-new.png" alt="facebook-new"/>](https://)
+[<img width="32" height="32" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/facebook.png?raw=true" alt="facebook-new"/>](https://www.facebook.com/pritompaul.pappu/) 
 
 ## Education
 
