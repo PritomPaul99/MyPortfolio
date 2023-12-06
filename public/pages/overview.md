@@ -17,7 +17,4 @@ I am passionate about **Software Engineering** and **Machine Learning**. My favo
 
 ## My Online Judge Accounts
 
-[![CodeForces](https://img.shields.io/badge/Codeforces-PritomPaul-lightgreen?style=%20for-the-badge&logo=Codeforces&cacheSeconds=healthiness&link=https%3A%2F%2Fcodeforces.com%2F
-)](https://codeforces.com/) [![CodeForces](https://img.shields.io/badge/Codeforces-PritomPaul-lightgreen?style=%20for-the-badge&logo=Codeforces&cacheSeconds=healthiness&link=https%3A%2F%2Fcodeforces.com%2F
-)](https://codeforces.com/) [![CodeForces](https://img.shields.io/badge/Codeforces-PritomPaul-lightgreen?style=%20for-the-badge&logo=Codeforces&cacheSeconds=healthiness&link=https%3A%2F%2Fcodeforces.com%2F
-)](https://codeforces.com/)
+[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/Codeforces.png?raw=true" alt="CodeForces"/>](https://codeforces.com/profile/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/CodeChef.png?raw=true" alt="CodeChef"/>](https://www.codechef.com/users/pritom_2000) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/CodeChef.png?raw=true" alt="AtCoder"/>](https://atcoder.jp/users/Pritom_paul1920)
