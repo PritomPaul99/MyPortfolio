@@ -1,6 +1,8 @@
 # 📖 Overview
 
-## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br>![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br><img width="240" height="200" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Blank Image"/>
+
+<!-- ![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif) -->
 
 ## Summary
 
