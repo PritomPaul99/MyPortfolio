@@ -53,7 +53,7 @@ export default function Footer() {
             > */}
             <Box
               component={Link}
-              href="https://github.com/noworneverev/react-vscode-portfolio"
+              href="https://github.com/PritomPaul99/MyPortfolio/tree/main"
               underline="none"
               color="white"
               target="_blank"
@@ -160,7 +160,14 @@ export default function Footer() {
                 }}
               >
                 <FaSearchLocation fontSize="0.6rem" />
-                <Typography sx={{ ml: 0.5, mt: 0.1, fontSize: "0.6rem", whiteSpace: "nowrap" }}>
+                <Typography
+                  sx={{
+                    ml: 0.5,
+                    mt: 0.1,
+                    fontSize: "0.6rem",
+                    whiteSpace: "nowrap",
+                  }}
+                >
                   <Link
                     target="_blank"
                     href={"https://maps.app.goo.gl/B7uWsjTLoPCygk9q8"}

@@ -6,7 +6,7 @@
 
 ## Summary
 
-I am a Computer Science & Engineering (CSE) student form North East University Bangladesh, Sylhet.
+I am a Computer Science & Engineering (CSE) student from North East University Bangladesh, Sylhet.
 I love programming & problem solving. I have participated in several onsite `International Collegiate Programming Competition (ICPC)`s. Also participated in several `Inter University Programming Competition (IUPC)`s and `Mathematics Olympiads`.
 I am passionate about **Software Engineering** and **Machine Learning**. My favorite programming languages are: `C/C++`, `Python`, `JavaScript`.
 
