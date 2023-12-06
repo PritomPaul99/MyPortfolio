@@ -1,8 +1,6 @@
 # 📖 Overview
 
-## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉
-
-![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br>![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
 
 ## Summary
 
@@ -17,4 +15,15 @@ I am passionate about **Software Engineering** and **Machine Learning**. My favo
 
 ## My Online Judge Accounts
 
-[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/StopStalk.png?raw=true" alt="AtCoder"/>](https://www.stopstalk.com/user/profile/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/Codeforces.png?raw=true" alt="CodeForces"/>](https://codeforces.com/profile/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/CodeChef.png?raw=true" alt="CodeChef"/>](https://www.codechef.com/users/pritom_2000) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/ATcoder.png?raw=true" alt="AtCoder"/>](https://atcoder.jp/users/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/750b9ea7-18d9-4679-af77-c15263570c1e.png?raw=true" alt="AtCoder"/>](https://www.topcoder.com/members/pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/49600c40-d3f6-4940-b307-a13b3c0fba38.png?raw=true" alt="AtCoder"/>](https://www.hackerrank.com/pritompaul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/HAckerEarth.png?raw=true" alt="AtCoder"/>](https://www.hackerearth.com/@Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/cefebb32-3331-4fdd-a491-85e99f371b01.png?raw=true" alt="AtCoder"/>](https://leetcode.com/Pritom_paul1920/) 
+[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/StopStalk.png?raw=true" alt="AtCoder"/>](https://www.stopstalk.com/user/profile/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/Codeforces.png?raw=true" alt="CodeForces"/>](https://codeforces.com/profile/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/CodeChef.png?raw=true" alt="CodeChef"/>](https://www.codechef.com/users/pritom_2000) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/ATcoder.png?raw=true" alt="AtCoder"/>](https://atcoder.jp/users/Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/750b9ea7-18d9-4679-af77-c15263570c1e.png?raw=true" alt="AtCoder"/>](https://www.topcoder.com/members/pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/49600c40-d3f6-4940-b307-a13b3c0fba38.png?raw=true" alt="AtCoder"/>](https://www.hackerrank.com/pritompaul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/HAckerEarth.png?raw=true" alt="AtCoder"/>](https://www.hackerearth.com/@Pritom_paul1920) [<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/cefebb32-3331-4fdd-a491-85e99f371b01.png?raw=true" alt="AtCoder"/>](https://leetcode.com/Pritom_paul1920/)
+
+Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/max_rating.svg) Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/rating.svg)
+
+![CodeForces Stat](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+## My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight )](https://github.com/anushkawakankar/github-readme-stats)
+
+## Feel Free to L👀K Around!
+![Look](https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif)
