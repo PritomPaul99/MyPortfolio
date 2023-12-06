@@ -26,4 +26,7 @@ Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight )](https://github.com/anushkawakankar/github-readme-stats)
 
 ## Feel Free to L👀K Around!
-![Look](https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif)
+
+<img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/>
+
+<!-- ![Look](https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif) -->
