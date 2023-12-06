@@ -1,11 +1,12 @@
-# 💻 Skills
+# 💻 Skills & Expertise
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+## General Tech Knowlegde
+
+- **Algorithm & Data Structure**
+- **Problem Solving**
 
 ## Programming languages
+
 - C# .NET
 - Python
 - JavaScript/TypeScript
