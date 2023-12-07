@@ -27,7 +27,7 @@ Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul
 
 ## My GitHub Stats
 
-![Pritom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight)](https://github.com/PritomPaul99/github-readme-stats)
+![Pritom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight)
 
 ## Feel Free to L👀K Around!
 
