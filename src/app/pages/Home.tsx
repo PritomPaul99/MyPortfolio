@@ -79,24 +79,29 @@ export default function Home({ setSelectedIndex }: Props) {
                 ))}
               </Stack>
             </Grid>
-            <Stack
-              direction={{ xs: "column", sm: "row-reverse" }}
-              spacing={4}
-              justifyContent="center"
+            <Grid
+              display="flex"
+              justifyContent={{ xs: "center"}}
             >
-              <a
-                href="https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing"
-                target="_blank"
-                rel="noopener noreferrer"
+              <Stack
+                direction={{ xs: "column", sm: "row-reverse" }}
+                spacing={4}
+                justifyContent="center"
               >
-                <img
-                  width="145"
-                  height="18"
-                  src="https://img.shields.io/badge/CV-Download_My_CV-lightgray?style=plastic&logo=readdotcv&labelColor=%23595959&color=%23E6E6FA"
-                  alt="facebook-new"
-                />
-              </a>
-            </Stack>
+                <a
+                  href="https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    width="145"
+                    height="18"
+                    src="https://img.shields.io/badge/CV-Download_My_CV-lightgray?style=plastic&logo=readdotcv&labelColor=%23595959&color=%23E6E6FA"
+                    alt="facebook-new"
+                  />
+                </a>
+              </Stack>
+            </Grid>
           </Box>
         </Stack>
       </Grid>
