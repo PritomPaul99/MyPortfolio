@@ -78,7 +78,7 @@ export default function Sidebar({
           <Link
             target="_blank"
             href={
-              "https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing"
+              "https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd"
             }
             underline="none"
             color="inherit"

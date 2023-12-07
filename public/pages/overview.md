@@ -7,10 +7,10 @@
 ## Summary
 
 > I am a Computer Science & Engineering (CSE) student from North East University Bangladesh, Sylhet.
-I love programming & problem solving. I have participated in several onsite `International Collegiate Programming Competition (ICPC)`s. Also participated in several `Inter University Programming Competition (IUPC)`s and `Mathematics Olympiads`.
-I am passionate about **Software Engineering** and **Machine Learning**. My favorite programming languages are: `C/C++`, `Python`, `JavaScript`.
+> I love programming & problem solving. I have participated in several onsite `International Collegiate Programming Competition (ICPC)`s. Also participated in several `Inter University Programming Competition (IUPC)`s and `Mathematics Olympiads`.
+> I am passionate about **Software Engineering** and **Machine Learning**. My favorite programming languages are: `C/C++`, `Python`, `JavaScript`.
 
-[<img width="145" height="18" src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv" alt="facebook-new"/>](https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing)
+[<img width="145" height="18" src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv" alt="facebook-new"/>](https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd)
 
 ## My Socials
 
@@ -32,9 +32,6 @@ Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul
 ## Feel Free to L👀K Around!
 
 <img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/>
-
-
-
 
 <!-- ![Look](https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif) -->
 <!-- <img width="30" height="60" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/Socials/BlankImage.png?raw=true" alt="Blank Image"/> -->
