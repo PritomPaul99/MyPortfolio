@@ -85,29 +85,20 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent="center"
             >
               <a
-                href="./CV_Pritom_Paul.pdf"
+                href="https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
-                download="CV_Pritom_Paul.pdf"
               >
                 <img
                   width="145"
                   height="18"
-                  src="https://img.shields.io/badge/CV-Download_My_CV-lightgray?style=plastic&logo=readdotcv"
+                  src="https://img.shields.io/badge/CV-Download_My_CV-lightgray?style=plastic&logo=readdotcv&labelColor=%23595959&color=%23E6E6FA"
                   alt="facebook-new"
                 />
               </a>
             </Stack>
           </Box>
         </Stack>
-        {/* <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2} justifyContent="center">
-          <img
-            width="145"
-            height="18"
-            src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv"
-            alt="facebook-new"
-          />
-        </Stack> */}
       </Grid>
     </Grid>
   );
