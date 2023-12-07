@@ -45,7 +45,7 @@ export const links = [
   {
     index: 5,
     title: "Find me on Youtube",
-    href: "https://www.youtube.com/channel/UCB-sghdcF0_aSq2gnlQdDYQ",
+    href: "https://www.youtube.com/@codingwithpritom",
     icon: <FaYoutube />,
   },
 ];
