@@ -87,7 +87,7 @@ export default function Home({ setSelectedIndex }: Props) {
               >
                 <a
                   // href="https://drive.google.com/file/d/1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd/view?usp=sharing"
-                  href="%PUBLIC_URL%/Assets/CV_Pritom_Paul.pdf"
+                  href="https://pritompaul.vercel.app/Assets/CV_Pritom_Paul.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   download={"CV_Pritom_Paul.pdf"}
