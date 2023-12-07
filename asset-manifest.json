@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.e4259d8c.js",
+    "main.js": "/static/js/main.dff2eea6.js",
     "static/js/787.df5e1d3a.chunk.js": "/static/js/787.df5e1d3a.chunk.js",
     "static/media/PritomPic.png": "/static/media/PritomPic.d0f014efc82364e6f9b5.png",
     "index.html": "/index.html",
-    "main.e4259d8c.js.map": "/static/js/main.e4259d8c.js.map",
+    "main.dff2eea6.js.map": "/static/js/main.dff2eea6.js.map",
     "787.df5e1d3a.chunk.js.map": "/static/js/787.df5e1d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4259d8c.js"
+    "static/js/main.dff2eea6.js"
   ]
 }
