@@ -11,6 +11,7 @@ import React, { useEffect } from "react";
 import logo from "../../static/PritomPic.png";
 import { useLocation } from "react-router-dom";
 import { links } from "./links";
+// import { FaAlignCenter } from "react-icons/fa";
 
 interface Props {
   setSelectedIndex: React.Dispatch<React.SetStateAction<number>>;
@@ -59,7 +60,6 @@ export default function Home({ setSelectedIndex }: Props) {
                 </Box>
               </Typography>
             </Grid>
-
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
@@ -79,8 +79,35 @@ export default function Home({ setSelectedIndex }: Props) {
                 ))}
               </Stack>
             </Grid>
+            <Stack
+              direction={{ xs: "column", sm: "row-reverse" }}
+              spacing={4}
+              justifyContent="center"
+            >
+              <a
+                href="./CV_Pritom_Paul.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                download="CV_Pritom_Paul.pdf"
+              >
+                <img
+                  width="145"
+                  height="18"
+                  src="https://img.shields.io/badge/CV-Download_My_CV-lightgray?style=plastic&logo=readdotcv"
+                  alt="facebook-new"
+                />
+              </a>
+            </Stack>
           </Box>
         </Stack>
+        {/* <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2} justifyContent="center">
+          <img
+            width="145"
+            height="18"
+            src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv"
+            alt="facebook-new"
+          />
+        </Stack> */}
       </Grid>
     </Grid>
   );
