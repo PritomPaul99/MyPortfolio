@@ -6,9 +6,8 @@
 
 ## Programming languages
 
-### Programming Languages
+<img width="61.5" height="30" src="https://img.shields.io/badge/C-C-%230053a0?style=flat&logo=c&logoColor=%230053a0&label=%20&labelColor=white" style="margin:0 10 5 0" alt="C programming"/><!--🚫--><img width="88.5" height="30" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B-%23800080?style=flat&logo=cplusplus&logoColor=%23800080&label=%20&labelColor=white" style="margin:0 10 5 0" alt="C++"/><!--🚫--><img width="109.5" height="30" src="https://img.shields.io/badge/Python-Python-%23366E9C?style=flat&logo=python&logoColor=%23366E9C&label=%20&labelColor=white" style="margin:0 10 5 0" alt="Python"/><!--🚫--><img width="136.5" height="30" src="https://img.shields.io/badge/JavaScript-JavaScript-%23F1C731?style=flat&logo=javascript&logoColor=%23F1C731&label=%20&labelColor=white" style="margin:0 10 5 0" alt="JavaScript"/><!--🚫-->
 
-<img width="76.8" height="33.6" src="https://img.shields.io/badge/_-C-%237339ac?style=for-the-badge&logo=c&logoColor=blue&labelColor=%23373737" alt="C"/> <img width="100.8" height="33.6" src="https://img.shields.io/badge/_-C%2B%2B-%23adcae6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=%239370db&color=%23333333" alt="C++"/>
 
 ## Databases
 

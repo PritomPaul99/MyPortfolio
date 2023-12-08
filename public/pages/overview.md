@@ -27,9 +27,11 @@ Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul
 
 ## My GitHub Stats
 
-![Pritom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight)
+<img width="" height="" src="https://img.shields.io/github/followers/PritomPaul99" alt="Github Followers"/> <img width="" height="" src="https://img.shields.io/github/stars/PritomPaul99?logo=github" alt="Pritom's GitHub stars"/>
 
-## Feel Free to L👀K Around!
+<img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight" alt="Pritom's GitHub stats"/> <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight" alt="Top Langs"/> 
+
+## Feel Free to L👀K Around
 
 <img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/>
 
