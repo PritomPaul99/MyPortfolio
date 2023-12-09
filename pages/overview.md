@@ -1,8 +1,6 @@
 # 📖 Overview
 
-## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br><img width="240" height="200" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" style="margin:5px 0x 0px 0px" alt="Blank Image"/>
-
-<!-- ![Hello!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif) -->
+## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<img width="240" height="200" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" style="margin: 0px 450px" alt="Hello from Joey"/>
 
 ## Summary
 
@@ -19,13 +17,10 @@
 
 ## My Online Judge Accounts
 
-[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/StopStalk.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://www.stopstalk.com/user/profile/Pritom_paul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/Codeforces.png?raw=true" style="margin:5px 30px 5px 0px" alt="CodeForces"/>](https://codeforces.com/profile/Pritom_paul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/CodeChef.png?raw=true" style="margin:5px 30px 5px 0px" alt="CodeChef"/>](https://www.codechef.com/users/pritom_2000)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/ATcoder.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://atcoder.jp/users/Pritom_paul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/750b9ea7-18d9-4679-af77-c15263570c1e.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://www.topcoder.com/members/pritom_paul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/49600c40-d3f6-4940-b307-a13b3c0fba38.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://www.hackerrank.com/pritompaul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/HAckerEarth.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://www.hackerearth.com/@Pritom_paul1920)<!-- NULL -->[<img width="100" height="100" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/OJ_Badges/cefebb32-3331-4fdd-a491-85e99f371b01.png?raw=true" style="margin:5px 30px 5px 0px" alt="AtCoder"/>](https://leetcode.com/Pritom_paul1920/)
+<a href="https://www.stopstalk.com/user/profile/Pritom_paul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/StopsTalk-Pritom_paul1920-white?style=flat&logo=stopstalk&logoColor=red&label=StopStalk&labelColor=%233d3d3d&color=%23cccccc" style="margin:0px 10px 5px 0px" alt="Stopstalk"/> </a><!-- 🚫 --><a href="https://codeforces.com/profile/Pritom_paul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-PritomPaul-white?style=flat&logo=codeforces&logoColor=%1380c3&label=CodeForces&labelColor=%233d3d3d&color=%23cccccc" style="margin:0px 10px 5px 0px" alt="CodeForces"/></a><!-- 🚫 --><a href="https://www.codechef.com/users/pritom_2000" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-pritom__2000-white?style=flat&logo=codechef&logoColor=white&label=CodeChef&labelColor=%233d3d3d&color=%23cccccc" style="margin:0px 10px 5px 0px" alt="CodeChef"/></a><!-- 🚫 --><a href="https://atcoder.jp/users/Pritom_paul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-Pritom__paul1920-white?style=flat&logo=aframe&logoColor=white&label=AtCoder&labelColor=%233d3d3d&color=%23cccccc" style="margin:0px 10px 5px 0px" alt="AtCoder"/></a><!-- 🚫 --><a href="https://toph.co/u/pritompaul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-pritompaul1920-white?style=flat&logo=toph&logoColor=white&label=T Toph&labelColor=%233d3d3d&color=%23cccccc" style="margin:0px 10px 5px 0px" alt="Toph"/></a><!-- 🚫 --><a href="https://www.hackerrank.com/pritompaul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-pritompaul1920-white?style=flat&logo=hackerrank&logoColor=green&label=HckerRank&labelColor=%23484848&color=%23c4c4c4" style="margin:0px 10px 5px 0px" alt="HackerRank"/></a><!-- 🚫 --><a href="https://www.hackerearth.com/@Pritom_paul1920" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-Pritom__paul1920-white?style=flat&logo=hackerearth&logoColor=white&label=HckerEarth&labelColor=%23484848&color=%23c4c4c4" style="margin:0px 10px 5px 0px" alt="Hacker Earth"/></a><!-- 🚫 --><a href="https://leetcode.com/Pritom_paul1920/" target="_blank"> <img width="" height="25" src="https://img.shields.io/badge/label-Pritom__paul1920-white?style=flat&logo=leetcode&logoColor=%23eab03c&label=LeetCode&labelColor=%23484848&color=%23c4c4c4" style="margin:0px 10px 5px 0px" alt="LeetCode"/></a><!-- 🚫 -->
 
-
-<!-- ojs -->
-<img width="" height="30" src="https://img.shields.io/badge/CodeForces-PritomPaul-%23ffc107?style=flat&logo=codeforces&logoColor=%23ffc107&label=CodeForces&labelColor=%23e6e6e6" style="margin:0px 10px 5px 0px" alt="CodeForces"/>
-
-Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/max_rating.svg) Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/rating.svg)
+Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/max_rating.svg)
+Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/rating.svg)
 
 ![CodeForces Stat](https://raw.githubusercontent.com/PritomPaul99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
@@ -33,7 +28,7 @@ Max Rating:![CodeForces Max Rating](https://raw.githubusercontent.com/PritomPaul
 
 <img width="" height="" src="https://img.shields.io/github/followers/PritomPaul99" alt="Github Followers"/> <img width="" height="" src="https://img.shields.io/github/stars/PritomPaul99?logo=github" alt="Pritom's GitHub stars"/>
 
-<img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight" alt="Pritom's GitHub stats"/> <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight" alt="Top Langs"/> 
+<img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight" alt="Pritom's GitHub stats"/> <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight" alt="Top Langs"/>
 
 ## Feel Free to L👀K Around
 
