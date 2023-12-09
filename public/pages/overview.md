@@ -33,6 +33,3 @@ Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/Pr
 ## Feel Free to L👀K Around
 
 <img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/>
-
-<!-- ![Look](https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif) -->
-<!-- <img width="30" height="60" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/Socials/BlankImage.png?raw=true" alt="Blank Image"/> -->
