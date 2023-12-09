@@ -14,7 +14,7 @@
 
 ### Frameworks
 
-<img width="" height="30" src="https://img.shields.io/badge/React-React-%231DA1F2?style=flat&logo=react&logoColor=%231DA1F2&label=%20&labelColor=%23e6e6e6" style="margin:0px 10px 5px 0px" alt="React"/><!--🚫--><img width="" height="30" src="https://img.shields.io/badge/Node.js-Node.js-%23539E43?style=flat&logo=node.js&logoColor=%23539E43&label=%20&labelColor=%23e6e6e6" style="margin:0px 10px 5px 0px" alt="Node.js"/><!--🚫--><img width="" height="30" src="https://img.shields.io/badge/-...-white?style=flat&logoColor=%23eab03c&color=%23c4c4c4" style="margin:0px 10px 5px 0px" alt=".../>
+<img width="" height="30" src="https://img.shields.io/badge/React-React-%231DA1F2?style=flat&logo=react&logoColor=%231DA1F2&label=%20&labelColor=%23e6e6e6" style="margin:0px 10px 5px 0px" alt="React"/><!--🚫--><img width="" height="30" src="https://img.shields.io/badge/Node.js-Node.js-%23539E43?style=flat&logo=node.js&logoColor=%23539E43&label=%20&labelColor=%23e6e6e6" style="margin:0px 10px 5px 0px" alt="Node.js"/><!--🚫--><img width="" height="30" src="https://img.shields.io/badge/-...-white?style=flat&logoColor=%23eab03c&color=%23c4c4c4" style="margin:0px 10px 5px 0px" alt="..."/>
 
 :::idea
 Still in learning process
