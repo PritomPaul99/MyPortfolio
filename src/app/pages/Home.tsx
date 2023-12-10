@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { useEffect } from "react";
-import logo from "../../static/PritomPic.png";
+import logo from "../../static/PritomPic_2.png";
 import { useLocation } from "react-router-dom";
 import { links } from "./links";
 // import { FaAlignCenter } from "react-icons/fa";
@@ -39,7 +39,7 @@ export default function Home({ setSelectedIndex }: Props) {
       <Grid item xs={3}>
         <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
           <Box display="flex" sx={{ justifyContent: "center" }}>
-            <img src={logo} width="100px" height="116px" alt="logo" />
+            <img src={logo} width="170px" height="170px" alt="logo" />
           </Box>
           <Box>
             <Grid
