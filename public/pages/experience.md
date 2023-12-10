@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-## ⭐Competitive Programming Instructor
+## Competitive Programming Instructor
 
 > @ **North East University Bangladesh, Sylhet.** _`(2021 - Present)`_
 
