@@ -2,7 +2,7 @@
 
 ## ⭐Competitive Programming Instructor
 
-> at North East Universe Bangladesh, Sylhet. _`(2021 - Present)`_
+> @ **North East University Bangladesh, Sylhet.** _`(2021 - Present)`_
 
 Responsibilities:
 
