@@ -146,7 +146,7 @@ export default function App() {
                 item
                 sx={{
                   backgroundColor: darkMode ? "#252527" : "#f3f3f3",
-                  width: 245,
+                  width: 220,
                 }}
               >
                 <Stack sx={{ mt: 1 }}>
