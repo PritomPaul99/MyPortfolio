@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-## Competitive Programming Instructor
+## ⭐Competitive Programming Instructor
 
 > at North East Universe Bangladesh, Sylhet. _`(2021 - Present)`_
 
