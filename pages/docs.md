@@ -1,5 +1,6 @@
 ::: info
 Following content is adapted from https://markdown-it.github.io/
+Helped me to build the md documents!
 :::
 
 # h1 Heading
@@ -29,7 +30,7 @@ _This is italic text_
 
 
 > Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
+> > ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
 ## Lists
