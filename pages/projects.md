@@ -6,6 +6,10 @@ Travel guide website. Really helpful for people who wants & loves to visit new p
 
 - **Tools ⚒️:** HTML5, CSS, PHP, MySQL
 
+::: success
+**Status 🕰️:** Project completed.
+:::
+
 ::: info
 More projects are coming!
 :::
