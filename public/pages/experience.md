@@ -7,6 +7,6 @@
 Responsibilities:
 
 - Teaching `Programming Languages` (C/C++) to the newer students.
-- Teaching `Data Structure & Algorithm`, `Strings` `Dynamic Programming`, `Maths`, etc.
+- Teaching `Data Structure & Algorithm`, `Strings`, `Dynamic Programming`, `Maths`, etc.
 - Arrange contests.
 - Problem setter.
