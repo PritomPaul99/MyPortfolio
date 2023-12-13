@@ -3,12 +3,14 @@ import { Box, Link, Paper, Tooltip } from "@mui/material";
 import LightModeOutlinedIcon from "@mui/icons-material/LightModeOutlined";
 import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
 import { VscFiles, VscSettingsGear } from "react-icons/vsc";
+import { IoMdHome } from "react-icons/io";
 // import { BiGitBranch } from "react-icons/bi";
 // import { IoDocumentAttach } from "react-icons/io5";
 import { FaFilePdf } from "react-icons/fa";
 import Divider from "@mui/material/Divider";
 import { links } from "../pages/links";
 import { useNavigate } from "react-router-dom";
+import { Link as RouterLink } from "react-router-dom";
 
 interface Props {
   expanded: boolean;
@@ -101,10 +103,39 @@ export default function Sidebar({
                 <FaFilePdf />
                 {/* <BiGitBranch /> */}
                 {/* <IoDocumentAttach /> */}
-                {/* <FaFilePdf /> */}
               </Box>
             </Box>
           </Link>
+        </Tooltip>
+
+        {/* Home Button */}
+        <Tooltip title="Go to Home" arrow placement="right">
+          <RouterLink
+            to="/"
+            style={{ textDecoration: "none", color: "inherit" }}
+          >
+            <Box
+              sx={{
+                flexGrow: 0,
+                cursor: "pointer",
+                color: "#858585",
+                fontSize: 24,
+                "&:hover": {
+                  color: "white",
+                },
+              }}
+              display="flex"
+              justifyContent="center"
+              mt={0.5}
+            >
+              <Box mt={0.7}>
+                {/* You can use an appropriate home icon here */}
+                {/* For example, if you have a home icon, replace the component below */}
+                {/* with the appropriate home icon component */}
+                <IoMdHome />
+              </Box>
+            </Box>
+          </RouterLink>
         </Tooltip>
 
         <Divider sx={{ m: 0.5 }} />
