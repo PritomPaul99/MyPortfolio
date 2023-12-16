@@ -33,3 +33,9 @@ Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/Pr
 <!-- ## Feel Free to L👀K Around
 
 <img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/> -->
+
+<img width="" height="" src="image link" style="margin:0px 10px 5px 0px" alt="Alternative text"/>
+<!-- Margin: all-four-side
+         Margin: top-bottom left-right
+         Margin: top left-right bottom
+         Margin: top right bottom left -->
