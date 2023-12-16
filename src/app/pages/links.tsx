@@ -1,15 +1,13 @@
 import {
-  FaLink,
+  // FaLink,
   FaYoutube,
   FaGithub,
   FaLinkedin,
   FaEnvelope,
-  FaPhoneAlt 
+  FaPhoneAlt,
 } from "react-icons/fa";
 
-// import {
-//   SiLinktree
-// } from "react-icons/si";
+import { SiLinktree } from "react-icons/si";
 
 export const links = [
   {
@@ -40,7 +38,7 @@ export const links = [
     index: 4,
     title: "Find me on Linktree",
     href: "https://linktr.ee/Pritom_paul1920",
-    icon: <FaLink />,
+    icon: <SiLinktree />,
   },
   {
     index: 5,
