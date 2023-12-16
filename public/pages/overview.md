@@ -1,6 +1,6 @@
 # 📖 Overview
 
-## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br><img width="240" height="200" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" style="margin: 0px 0px" alt="Hello from Joey"/>
+## Hi, I am Pritom Paul.👋 Welcome to my portfolio!🎉<br><img width="" height="200" src="https://github.com/PritomPaul99/MyPortfolio/blob/main/Assets/Icons/Socials/Animation%20-%201702753412655.gif?raw=true" style="margin: 0px 0px" alt="Hello from Joey"/>
 
 ## Summary
 
