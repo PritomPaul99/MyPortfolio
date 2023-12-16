@@ -30,6 +30,6 @@ Current Rating:![CodeForces Current Rating](https://raw.githubusercontent.com/Pr
 
 <img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=PritomPaul99&show_icons=true&theme=tokyonight" alt="Pritom's GitHub stats"/> <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritomPaul99&layout=compact&theme=tokyonight" alt="Top Langs"/>
 
-## Feel Free to L👀K Around
+<!-- ## Feel Free to L👀K Around
 
-<img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/>
+<img width="240" height="240" src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" alt="Look"/> -->
