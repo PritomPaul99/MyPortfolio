@@ -90,7 +90,7 @@ export default function Home({ setSelectedIndex }: Props) {
                   // href="/Assets/CV_Pritom_Paul.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
-                  // download={"CV_Pritom_Paul.pdf"}
+                  download={"CV_Pritom_Paul.pdf"}
                 >
                   <img
                     width="145"
