@@ -8,7 +8,9 @@
 > I love programming & problem solving. I have participated in several onsite `International Collegiate Programming Competition (ICPC)`s. Also participated in several `Inter University Programming Competition (IUPC)`s and `Mathematics Olympiads`.
 > I am passionate about **Software Engineering** and **Machine Learning**. My favorite programming languages are: `C/C++`, `Python`, `JavaScript`.
 
-[<img width="145" height="18" src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv" alt="facebook-new"/>](https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd)
+<!-- [<img width="145" height="18" src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv" alt="facebook-new"/>](https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd) -->
+
+<a href="/Assects/CV/Resume_PritomPaul_Phn-01718382009.pdf" alt="https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd" target="_blank" download="CV_Pritom_Paul.pdf"><img width="145" height="18" src="https://img.shields.io/badge/CV-Download_My_CV-8A2BE2?style=plastic&logo=readdotcv" alt="facebook-new"/></a>
 
 ## My Socials
 
