@@ -36,11 +36,7 @@ export default function Footer() {
         >
           <VscRemote fontSize="0.9rem" />
         </Grid>
-        <Grid
-          item
-          sx={{ backgroundColor: "#3279CB", flex: 1 }}
-          display="flex"
-        >
+        <Grid item sx={{ backgroundColor: "#3279CB", flex: 1 }} display="flex">
           <Stack direction="row" spacing={0.5} sx={{ pl: 1 }}>
             <Box
               component={Link}
@@ -63,7 +59,11 @@ export default function Footer() {
                 main
               </Typography>
             </Box>
-            <Stack direction="row" spacing={0.5} sx={{ px: 0.5, cursor: "pointer" }}>
+            <Stack
+              direction="row"
+              spacing={0.5}
+              sx={{ px: 0.5, cursor: "pointer" }}
+            >
               <Box display="flex" sx={{ py: 0.3 }}>
                 <VscError fontSize="0.9rem" />
               </Box>
@@ -86,8 +86,13 @@ export default function Footer() {
           justifyContent="flex-end"
         >
           <Box display="flex" justifyContent="flex-end">
-            <Stack justifyContent="end" direction="row" spacing={0.8} sx={{ pr: 1.5 }}>
-            <Box
+            <Stack
+              justifyContent="end"
+              direction="row"
+              spacing={0.8}
+              sx={{ pr: 1.5 }}
+            >
+              <Box
                 display="flex"
                 sx={{
                   px: 0.5,
@@ -133,7 +138,6 @@ export default function Footer() {
               >
                 <FaEnvelope fontSize="0.6rem" />
                 <Typography sx={{ ml: 0.5, mt: 0.1, fontSize: "0.6rem" }}>
-                  {/* +8801718382009 */}
                   <Link
                     target="_blank"
                     href={"mailto:pritompaul1920.4@gmail.com"}
@@ -159,7 +163,6 @@ export default function Footer() {
               >
                 <FaPhoneAlt fontSize="0.6rem" />
                 <Typography sx={{ ml: 0.5, mt: 0.1, fontSize: "0.6rem" }}>
-                  {/* +8801718382009 */}
                   <Link
                     target="_blank"
                     href={"tel:+8801718382009"}
@@ -227,5 +230,3 @@ export default function Footer() {
     </Box>
   );
 }
-
-
