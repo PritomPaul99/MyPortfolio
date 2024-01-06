@@ -16,8 +16,7 @@ export default function Footer() {
       component={Paper}
       square
       elevation={0}
-      // sx={{ height: '3vh' }}
-      sx={{ height: "20px", color: "white" }}
+      sx={{ height: "auto", color: "white" }}
       display="flex"
     >
       <Grid container>
@@ -39,18 +38,10 @@ export default function Footer() {
         </Grid>
         <Grid
           item
-          sx={{ backgroundColor: "#3279CB", width: "200px" }}
+          sx={{ backgroundColor: "#3279CB", flex: 1 }}
           display="flex"
         >
           <Stack direction="row" spacing={0.5} sx={{ pl: 1 }}>
-            {/* <Stack direction="row" spacing={0.5}> */}
-            {/* <Tooltip title="react-vscode-portoflio (Git)" arrow> */}
-            {/* <Link
-              href="https://github.com/noworneverev/react-vscode-portfolio"
-              underline="none"
-              color="white"
-              target="_blank"
-            > */}
             <Box
               component={Link}
               href="https://github.com/PritomPaul99/MyPortfolio/tree/main"
@@ -62,7 +53,6 @@ export default function Footer() {
                 px: 0.5,
                 justifyContent: "center",
                 alignItems: "center",
-                // cursor: "pointer",
                 "&:hover": {
                   background: "#1f8ad2",
                 },
@@ -73,60 +63,17 @@ export default function Footer() {
                 main
               </Typography>
             </Box>
-            {/* </Link> */}
-
-            {/* </Tooltip> */}
-            {/* </Stack> */}
-            <Stack
-              direction="row"
-              spacing={0.5}
-              sx={{
-                px: 0.5,
-                cursor: "pointer",
-                "&:hover": {
-                  background: "#1f8ad2",
-                },
-              }}
-            >
-              <Box
-                display="flex"
-                sx={{
-                  justifyContent: "center",
-                  alignItems: "center",
-                  py: 0.3,
-                }}
-              >
+            <Stack direction="row" spacing={0.5} sx={{ px: 0.5, cursor: "pointer" }}>
+              <Box display="flex" sx={{ py: 0.3 }}>
                 <VscError fontSize="0.9rem" />
               </Box>
-              <Box
-                display="flex"
-                sx={{
-                  justifyContent: "center",
-                  alignItems: "center",
-                  pt: 0.3,
-                }}
-              >
+              <Box display="flex" sx={{ pt: 0.3 }}>
                 <Typography sx={{ fontSize: "0.6rem" }}>0</Typography>
               </Box>
-
-              <Box
-                display="flex"
-                sx={{
-                  justifyContent: "center",
-                  alignItems: "center",
-                  py: 0.3,
-                }}
-              >
+              <Box display="flex" sx={{ py: 0.3 }}>
                 <VscWarning fontSize="0.9rem" />
               </Box>
-              <Box
-                display="flex"
-                sx={{
-                  justifyContent: "center",
-                  alignItems: "center",
-                  pt: 0.3,
-                }}
-              >
+              <Box display="flex" sx={{ pt: 0.3 }}>
                 <Typography sx={{ fontSize: "0.6rem" }}>0</Typography>
               </Box>
             </Stack>
@@ -134,20 +81,13 @@ export default function Footer() {
         </Grid>
         <Grid
           item
-          // sx={{ backgroundColor: '#3279CB', minWidth: `calc(100% - 35px)` }}
-          sx={{ backgroundColor: "#3279CB", minWidth: `calc(100% - 235px)` }}
+          sx={{ backgroundColor: "#3279CB", flex: 1 }}
           display="flex"
           justifyContent="flex-end"
         >
           <Box display="flex" justifyContent="flex-end">
-            <Stack
-              // display="flex"
-              justifyContent="end"
-              direction="row"
-              spacing={0.8}
-              sx={{ pr: 1.5 }}
-            >
-              <Box
+            <Stack justifyContent="end" direction="row" spacing={0.8} sx={{ pr: 1.5 }}>
+            <Box
                 display="flex"
                 sx={{
                   px: 0.5,
@@ -287,3 +227,5 @@ export default function Footer() {
     </Box>
   );
 }
+
+
