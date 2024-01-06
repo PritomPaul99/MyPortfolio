@@ -78,10 +78,14 @@ export default function Sidebar({
         </Box>
         <Tooltip title="Download My CV" arrow placement="right">
           <Link
+            // href={
+            //   "https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd"
+            // }
+            href="/Assects/CV/Resume_PritomPaul_Phn-01718382009.pdf"
             target="_blank"
-            href={
-              "https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd"
-            }
+            rel="noopener noreferrer"
+            download={"CV_Pritom_Paul.pdf"}
+
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}

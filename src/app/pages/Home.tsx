@@ -86,8 +86,8 @@ export default function Home({ setSelectedIndex }: Props) {
                 justifyContent="center"
               >
                 <a
-                  href="https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd"
-                  // href="/Assets/CV_Pritom_Paul.pdf"
+                  // href="https://drive.google.com/uc?export=download&id=1OwEK4U5cyRwiAQcp6s3NAjRdxaD0kdmd"
+                  href="/Assects/CV/Resume_PritomPaul_Phn-01718382009.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   download={"CV_Pritom_Paul.pdf"}
