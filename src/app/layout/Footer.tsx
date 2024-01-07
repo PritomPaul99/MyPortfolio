@@ -92,7 +92,7 @@ export default function Footer() {
               spacing={0.8}
               sx={{ pr: 1.5 }}
             >
-              <Box
+              {/* <Box
                 display="flex"
                 sx={{
                   px: 0.5,
@@ -123,7 +123,7 @@ export default function Footer() {
                     Sylhet, Bangladesh.
                   </Link>
                 </Typography>
-              </Box>
+              </Box> */}
               <Box
                 display="flex"
                 sx={{
