@@ -105,11 +105,11 @@ Right aligned columns
 
 ## Links
 
-[link text](https://noworneverev.github.io/)
+[link text](https://github.com/PritomPaul99)
 
-[link with title](https://github.com/noworneverev/react-vscode-portfolio "title text!")
+[link with title](https://github.com/PritomPaul99 "title text!")
 
-Autoconverted link https://noworneverev.github.io/ 
+Autoconverted link https://github.com/PritomPaul99 
 
 ## Alerts
 ::: warning
