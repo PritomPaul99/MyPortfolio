@@ -159,25 +159,27 @@ export default function AppButtons({
         whiteSpace: "nowrap",
         backgroundColor: theme.palette.mode === "dark" ? "#252527" : "#f3f3f3",
         "&::-webkit-scrollbar": {
-          height: "3px",
-          // backgroundColor: 'red',
+          height: "8px",
+          backgroundColor: '#535353',
+          borderRadius: '0px'
         },
         "&::-webkit-scrollbar-thumb": {
           backgroundColor:
             theme.palette.mode === "dark" ? "#535353" : "#8c8c8c",
         },
-        "&::-webkit-darkScrollbar-thumb": {
+         "&::-webkit-darkScrollbar-thumb": {
           backgroundColor:
             theme.palette.mode === "dark" ? "#ffffff" : "#8c8c8c",
         },
-        // '&::-webkit-scrollbar:hover, & *::-webkit-scrollbar:hover': {
-        //   backgroundColor: '#ffffff',
-        // },
-        // '&::-webkit-scrollbar-thumb:hover, & *::-webkit-scrollbar-thumb:hover':
-        //   {
-        //     backgroundColor:
-        //       theme.palette.mode === 'dark' ? '#ffffff' : '#8c8c8c',
-        //   },
+        '&::-webkit-scrollbar:hover, & *::-webkit-scrollbar:hover': {
+          backgroundColor: '#7a7a7a',
+        },
+        '&::-webkit-scrollbar-thumb:hover, & *::-webkit-scrollbar-thumb:hover':
+          {
+            backgroundColor:
+              theme.palette.mode === 'dark' ? '#7a7a7a' : '#8c8c8c',
+        },
+        
       }}
     >
       {pages.map(({ index, name, route }) =>
