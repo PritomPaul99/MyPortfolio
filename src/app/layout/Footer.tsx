@@ -7,7 +7,7 @@ import {
   VscFeedback,
   VscCheck,
 } from "react-icons/vsc";
-import { FaEnvelope, FaPhoneAlt, FaSearchLocation } from "react-icons/fa";
+import { FaEnvelope, FaPhoneAlt} from "react-icons/fa";
 import { IoIosGitBranch } from "react-icons/io";
 
 export default function Footer() {
